@@ -1,4 +1,7 @@
 ﻿using System.Text;
+
+namespace Arrays;
+
 /// <summary>
 /// This class implements a dynamic array, using generics and providing basic operations.
 /// </summary>
