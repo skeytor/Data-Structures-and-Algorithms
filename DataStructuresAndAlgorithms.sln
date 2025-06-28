@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4363AC81-9A50-4D79-8805-1BD584009C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{ADBCA7C0-1D10-4197-AB40-CE77010C7745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBCA7C0-1D10-4197-AB40-CE77010C7745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBCA7C0-1D10-4197-AB40-CE77010C7745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBCA7C0-1D10-4197-AB40-CE77010C7745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBCA7C0-1D10-4197-AB40-CE77010C7745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ADBCA7C0-1D10-4197-AB40-CE77010C7745} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53CE7245-0533-4088-81D4-B5854ED293A7}
+	EndGlobalSection
+EndGlobal
