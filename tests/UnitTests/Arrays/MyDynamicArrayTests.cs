@@ -1,4 +1,5 @@
-﻿using Xunit.Abstractions;
+﻿using Arrays;
+using Xunit.Abstractions;
 
 namespace UnitTests.Arrays;
 
