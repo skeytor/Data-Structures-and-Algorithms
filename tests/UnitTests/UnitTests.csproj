@@ -17,6 +17,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\src\Arrays\Arrays.csproj" />
     <ProjectReference Include="..\..\src\LinkedLists\LinkedLists.csproj" />
+    <ProjectReference Include="..\..\src\Stacks\Stacks.csproj" />
   </ItemGroup>
 
   <ItemGroup>
